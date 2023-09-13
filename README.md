@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Compare plt.get_backend() in lowercase (#8409)
