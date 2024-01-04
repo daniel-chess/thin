@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
