@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
