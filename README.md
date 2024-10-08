@@ -1,1 +1,1 @@
-fix val each epoch
+Fix heatmaps width-height order bug (#7184)
